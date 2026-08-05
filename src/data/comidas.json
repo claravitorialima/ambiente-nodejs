@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "carne moída",
+        "sabor": "bem temperada",
+        "cor": "marrom"
+    },
+    {
+        "id": "2",
+        "nome": "fricassê de frango",
+        "sabor": "cremoso",
+        "cor": "alaranjado"
+    },
+    {
+        "id": 3,
+        "nome": "arroz",
+        "sabor": "neutro",
+        "cor": "branco"
+    },
+    {
+        "id": 4,
+        "nome": "batata frita",
+        "sabor": "salgada",
+        "cor": "amarela"
+    }
+]

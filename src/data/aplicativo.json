@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "Shein",
+        "criação": "2008",
+        "publico": "jovens"
+    },
+    {
+        "id": "2",
+        "nome": "Tiktok",
+        "criação": "2016",
+        "publico": "jovens"
+    },
+    {
+        "id": 3,
+        "nome": "Roblox",
+        "criação": "2004",
+        "publico": "crianças"
+    },
+    {
+        "id": 4,
+        "nome": "Gov",
+        "criação": "2019",
+        "publico": "todos"
+    }
+]

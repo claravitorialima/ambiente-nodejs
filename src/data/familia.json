@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "Rosyane",
+        "categoria": "mãe",
+        "idade": "37"
+    },
+    {
+        "id": "2",
+        "nome": "Marcos",
+        "categoria": "pai",
+        "idade": "39"
+    },
+    {
+        "id": 3,
+        "nome": "Bernardo",
+        "categoria": "irmão",
+        "idade": "12"
+    },
+    {
+        "id": 4,
+        "nome": "Zara",
+        "categoria": "gata",
+        "idade": "1"
+    }
+]

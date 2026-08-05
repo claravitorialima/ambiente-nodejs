@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "blush",
+        "marca": "rare beauty",
+        "origem": "Estados Unidos"
+    },
+    {
+        "id": "2",
+        "nome": "rímel",
+        "marca": "ruby rose",
+        "origem": "Rússia"
+    },
+    {
+        "id": 3,
+        "nome": "contorno",
+        "marca": "oceane",
+        "origem": "Brasil"
+    },
+    {
+        "id": 4,
+        "nome": "corretivo",
+        "marca": "ruby kisses",
+        "origem": "Estados Unidos"
+    }
+]

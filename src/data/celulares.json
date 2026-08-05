@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "marca": "Apple",
+        "criação": "1976",
+        "origem": "Estados Unidos"
+    },
+    {
+        "id": "2",
+        "marca": "Samsung",
+        "criação": "1938",
+        "origem": "Coreia do Sul"
+    },
+    {
+        "id": 3,
+        "marca": "Motorola",
+        "criação": "1928",
+        "origem": "Estados Unidos"
+    },
+    {
+        "id": 4,
+        "marca": "Xiaomi",
+        "criação": "2010",
+        "origem": "China"
+    }
+]

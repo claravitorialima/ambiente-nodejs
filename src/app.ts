@@ -1,2 +1,2 @@
 console.log("Olá TypeScript!");
-console.log("My name is Luiza");
+console.log("My name is Clara");
